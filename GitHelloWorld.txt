@@ -7,4 +7,5 @@ string test;
 string themsolieu;
 
 commit 1 nhanh testbranch2
+commit 2 nhanh testbranch2
 testpushcode
