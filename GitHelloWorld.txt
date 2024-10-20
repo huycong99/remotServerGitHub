@@ -2,4 +2,7 @@ int a;
 int b;
 int c;
 int changemaster;
+string branchtest;
+string test;
+string themsolieu;
 testpushcode
