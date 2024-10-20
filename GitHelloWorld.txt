@@ -3,4 +3,5 @@ int b;
 int c;
 int changemaster;
 string branchtest;
+string test;
 testpushcode
