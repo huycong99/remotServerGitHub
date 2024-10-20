@@ -5,4 +5,6 @@ int changemaster;
 string branchtest;
 string test;
 string themsolieu;
+
+commit 1 nhanh testbranch2
 testpushcode
