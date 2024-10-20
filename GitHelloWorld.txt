@@ -6,5 +6,8 @@ string branchtest;
 string test;
 string themsolieu;
 commit o master
+
+commit 1 nhanh testbranch2
+commit 2 nhanh testbranch2
 commit nhanh test branch3
 testpushcode
