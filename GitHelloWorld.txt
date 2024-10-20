@@ -13,4 +13,6 @@ commit nhanh test branch3
 commit nhanh test branch4
 commit nhanh test branch5
 commit nhanh test branch6
+
+commit tu fork master 
 testpushcode
