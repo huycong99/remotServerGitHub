@@ -10,4 +10,7 @@ commit o master
 commit 1 nhanh testbranch2
 commit 2 nhanh testbranch2
 commit nhanh test branch3
+commit nhanh test branch4
+commit nhanh test branch5
+commit nhanh test branch6
 testpushcode
